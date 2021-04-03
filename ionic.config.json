@@ -1,0 +1,7 @@
+{
+  "name": "fitness-hunt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
